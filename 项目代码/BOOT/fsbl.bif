@@ -1,0 +1,7 @@
+//arch = zynq; split = false; format = BIN
+the_ROM_image:
+{
+	[bootloader]E:\Vivado\VivadoProjects\IoTCompDesign\IoTCompDesign.sdk\fsbl\Debug\fsbl.elf
+	E:\Vivado\VivadoProjects\IoTCompDesign\IoTCompDesign.sdk\MainDesign_wrapper_hw_platform_0\MainDesign_wrapper.bit
+	E:\Desktop\bak_zynqlinux\u-boot.elf
+}
